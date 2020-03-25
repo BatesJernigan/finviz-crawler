@@ -1,0 +1,28 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,SMMT,Summit Therapeutics plc,Healthcare,Drug Manufacturers - Other,United Kingdom,115.80M,0.73,1.41
+ADDED,HCHC,"HC2 Holdings, Inc.",Technology,Long Distance Carriers,USA,233.40M,1.27,5.04
+ADDED,UPL,Ultra Petroleum Corp.,Basic Materials,Independent Oil & Gas,USA,315.38M,2.20,1.58
+ADDED,LMRK,Landmark Infrastructure Partners LP,Financial,Property Management,USA,315.63M,2.92,12.58
+ADDED,RYI,Ryerson Holding Corporation,Industrial Goods,Metal Fabrication,USA,336.79M,3.47,8.75
+ADDED,MDR,"McDermott International, Inc.",Basic Materials,Oil & Gas Equipment & Services,USA,1.68B,4.38,8.19
+ADDED,PER,SandRidge Permian Trust,Basic Materials,Independent Oil & Gas,USA,114.12M,4.43,2.00
+ADDED,HEAR,Turtle Beach Corporation,Technology,Communication Equipment,USA,229.05M,4.45,15.28
+ADDED,ZTR,Virtus Global Dividend & Income Fund Inc.,Financial,Closed-End Fund - Equity,USA,240.53M,4.46,9.82
+ADDED,SDR,SandRidge Mississippian Trust II,Basic Materials,Independent Oil & Gas,USA,53.62M,4.51,1.05
+ADDED,OPHC,"OptimumBank Holdings, Inc.",Financial,Regional - Mid-Atlantic Banks,USA,6.36M,4.51,4.45
+ADDED,IMMR,Immersion Corporation,Technology,Application Software,USA,338.85M,4.73,9.00
+ADDED,KRO,"Kronos Worldwide, Inc.",Basic Materials,Specialty Chemicals,USA,1.46B,4.93,12.95
+ADDED,FUND,"Sprott Focus Trust, Inc. - Clos",Financial,Closed-End Fund - Equity,USA,178.79M,4.93,6.87
+ADDED,ALEX,"Alexander & Baldwin, Inc.",Financial,Real Estate Development,USA,1.59B,4.95,21.29
+ADDED,JP,Jupai Holdings Limited,Financial,Asset Management,China,278.89M,4.95,8.38
+ADDED,MT,ArcelorMittal,Basic Materials,Steel & Iron,Luxembourg,25.57B,4.98,24.36
+ADDED,ADES,"Advanced Emissions Solutions, Inc.",Industrial Goods,Pollution & Treatment Controls,USA,200.60M,4.98,10.03
+ADDED,BGI,Birks Group Inc.,Services,Jewelry Stores,Canada,25.82M,5.00,1.28
+REMOVED,HK,Halcon Resources Corporation,Basic Materials,Oil & Gas Drilling & Exploration,USA,626.82M,0.96,3.82
+REMOVED,EVC,Entravision Communications Corporation,Services,Broadcasting - TV,USA,457.31M,3.20,5.41
+REMOVED,EMES,Emerge Energy Services LP,Basic Materials,Industrial Metals & Minerals,USA,63.65M,3.70,2.64
+REMOVED,LCI,"Lannett Company, Inc.",Healthcare,Drugs - Generic,USA,156.99M,4.26,4.30
+REMOVED,FAM,First Trust/Aberdeen Global Opportunity Income Fund,Financial,Closed-End Fund - Debt,USA,119.40M,4.43,9.22
+REMOVED,FG,FGL Holdings,Financial,Life Insurance,Cayman Islands,1.73B,4.51,8.03
+REMOVED,UCTT,"Ultra Clean Holdings, Inc.",Technology,Semiconductor Equipment & Materials,USA,397.28M,4.65,10.30
+REMOVED,JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,Financial,Closed-End Fund - Equity,USA,168.47M,4.90,12.17

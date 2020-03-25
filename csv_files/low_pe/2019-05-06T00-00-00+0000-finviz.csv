@@ -1,0 +1,116 @@
+Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+OIBR-C,Oi S.A.,Technology,Diversified Communication Services,Brazil,4.89B,0.07,2.12
+CMLS,Cumulus Media Inc.,Services,Broadcasting - Radio,USA,306.63M,0.48,17.90
+SSKN,"STRATA Skin Sciences, Inc.",Healthcare,Medical Instruments & Supplies,USA,80.16M,0.52,2.63
+PLAG,Planet Green Holdings Corp.,Consumer Goods,Processed & Packaged Goods,China,22.22M,0.53,4.20
+PED,PEDEVCO Corp.,Basic Materials,Oil & Gas Equipment & Services,USA,92.29M,0.60,2.08
+UONEK,"Urban One, Inc.",Services,Broadcasting - Radio,USA,81.43M,0.62,1.86
+BPRAP,Brookfield Property REIT Inc.,Financial,REIT - Retail,USA,3.71B,0.67,25.16
+HCHC,"HC2 Holdings, Inc.",Technology,Long Distance Carriers,USA,102.96M,0.73,2.43
+EMES,Emerge Energy Services LP,Basic Materials,Industrial Metals & Minerals,USA,8.81M,0.79,0.32
+UONE,"Urban One, Inc.",Services,Broadcasting - Radio,USA,3.75M,0.79,2.32
+BPR,Brookfield Property REIT Inc.,Financial,REIT - Retail,USA,2.05B,0.80,20.82
+COOP,Mr. Cooper Group Inc.,Financial,Savings & Loans,USA,796.18M,0.81,9.03
+ISEE,"IVERIC bio, Inc.",Healthcare,Biotechnology,USA,58.93M,0.97,1.43
+UPL,Ultra Petroleum Corp.,Basic Materials,Independent Oil & Gas,USA,89.44M,1.00,0.43
+CGA,"China Green Agriculture, Inc.",Basic Materials,Agricultural Chemicals,China,21.21M,1.02,0.54
+SIGA,"SIGA Technologies, Inc.",Healthcare,Biotechnology,USA,456.00M,1.09,5.58
+KGJI,"Kingold Jewelry, Inc.",Basic Materials,Gold,China,53.85M,1.11,0.83
+LGCY,Legacy Reserves Inc.,Basic Materials,Independent Oil & Gas,USA,51.73M,1.14,0.46
+SDLP,Seadrill Partners LLC,Basic Materials,Oil & Gas Drilling & Exploration,United Kingdom,62.56M,1.15,0.70
+BORN,China New Borun Corporation,Consumer Goods,Beverages - Brewers,China,21.57M,1.15,0.83
+HHS,"Harte Hanks, Inc.",Services,Marketing Services,USA,19.24M,1.27,3.03
+IPLDP,Interstate Power and Light Company,Utilities,Electric Utilities,USA,202.28M,1.28,25.25
+ARL,"American Realty Investors, Inc.",Financial,Property Management,USA,222.95M,1.32,14.21
+EGY,"VAALCO Energy, Inc.",Basic Materials,Independent Oil & Gas,USA,135.37M,1.35,2.20
+AMPE,"Ampio Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,63.77M,1.36,0.55
+SMMT,Summit Therapeutics plc,Healthcare,Drug Manufacturers - Other,United Kingdom,144.54M,1.44,1.76
+OSN,"Ossen Innovation Co., Ltd.",Basic Materials,Steel & Iron,China,13.37M,1.46,1.96
+TCI,"Transcontinental Realty Investors, Inc.",Financial,REIT - Diversified,USA,280.96M,1.55,32.00
+AVNW,"Aviat Networks, Inc.",Technology,Communication Equipment,USA,73.36M,1.57,13.51
+FTSI,"FTS International, Inc.",Basic Materials,Oil & Gas Equipment & Services,USA,1.16B,1.73,10.79
+CEPU,Central Puerto S.A.,Utilities,Electric Utilities,Argentina,13.13B,1.88,8.72
+XIN,"Xinyuan Real Estate Co., Ltd.",Financial,Real Estate Development,China,290.57M,1.89,4.50
+JE,Just Energy Group Inc.,Utilities,Diversified Utilities,Canada,547.77M,2.09,3.67
+EMMS,Emmis Communications Corporation,Services,Broadcasting - Radio,USA,46.26M,2.16,3.60
+HCC,"Warrior Met Coal, Inc.",Basic Materials,Industrial Metals & Minerals,USA,1.46B,2.16,28.38
+MTL,Mechel PAO,Basic Materials,Steel & Iron,Russia,677.35M,2.19,2.06
+CXDC,China XD Plastics Company Limited,Consumer Goods,Rubber & Plastics,China,122.81M,2.34,2.40
+TALO,Talos Energy Inc.,Basic Materials,Independent Oil & Gas,USA,1.63B,2.37,29.65
+KEN,Kenon Holdings Ltd.,Utilities,Foreign Utilities,Singapore,1.05B,2.39,19.51
+HCLP,Hi-Crush Partners LP,Basic Materials,Industrial Metals & Minerals,USA,370.35M,2.41,3.57
+CNX,CNX Resources Corporation,Basic Materials,Independent Oil & Gas,USA,1.74B,2.47,8.99
+LPI,"Laredo Petroleum, Inc.",Basic Materials,Independent Oil & Gas,USA,873.80M,2.53,3.52
+DXF,Dunxin Financial Holdings Limited,Financial,Credit Services,China,52.53M,2.57,2.59
+THST,"Truett-Hurst, Inc.",Consumer Goods,Beverages - Wineries & Distillers,USA,7.02M,2.60,1.55
+REGI,"Renewable Energy Group, Inc.",Basic Materials,Oil & Gas Refining & Marketing,USA,642.56M,2.63,17.48
+X,United States Steel Corporation,Basic Materials,Steel & Iron,USA,2.88B,2.66,16.63
+CIFS,China Internet Nationwide Financial Services Inc.,Financial,Credit Services,China,61.44M,2.66,2.75
+SBOW,"SilverBow Resources, Inc.",Basic Materials,Independent Oil & Gas,USA,218.35M,2.72,17.22
+TUSK,"Mammoth Energy Services, Inc.",Basic Materials,Oil & Gas Drilling & Exploration,USA,657.97M,2.80,14.69
+FSK,FS KKR Capital Corp.,Financial,Asset Management,USA,3.34B,2.82,6.38
+ROSEU,Rosehill Resources Inc.,Basic Materials,Independent Oil & Gas,USA,-,2.83,5.00
+GPOR,Gulfport Energy Corporation,Basic Materials,Independent Oil & Gas,USA,1.15B,2.85,7.04
+VHI,"Valhi, Inc.",Basic Materials,Chemicals - Major Diversified,USA,772.85M,2.86,2.40
+CRZO,"Carrizo Oil & Gas, Inc.",Basic Materials,Independent Oil & Gas,USA,1.13B,2.87,11.86
+BCEI,"Bonanza Creek Energy, Inc.",Basic Materials,Independent Oil & Gas,USA,482.76M,2.88,23.50
+DNR,Denbury Resources Inc.,Basic Materials,Independent Oil & Gas,USA,973.33M,2.91,2.06
+ALIM,"Alimera Sciences, Inc.",Healthcare,Drug Manufacturers - Major,USA,58.22M,2.92,0.93
+GNC,"GNC Holdings, Inc.",Services,Drug Stores,USA,172.80M,2.93,2.07
+WTI,"W&T Offshore, Inc.",Basic Materials,Oil & Gas Drilling & Exploration,USA,775.73M,2.95,5.29
+PVAC,Penn Virginia Corporation,Basic Materials,Independent Oil & Gas,USA,674.59M,2.99,43.89
+JP,Jupai Holdings Limited,Financial,Asset Management,China,133.65M,3.00,3.73
+RFP,Resolute Forest Products Inc.,Consumer Goods,Paper & Paper Products,Canada,692.05M,3.01,7.58
+CLF,Cleveland-Cliffs Inc.,Basic Materials,Industrial Metals & Minerals,USA,2.98B,3.02,10.28
+ATV,"Acorn International, Inc.",Services,Catalog & Mail Order Houses,China,1.00B,3.15,28.90
+LND,BrasilAgro - Companhia Brasileira de Propriedades Agricolas,Financial,Property Management,Brazil,204.45M,3.16,3.80
+CNF,CNFinance Holdings Limited,Financial,Credit Services,China,416.19M,3.17,5.99
+CRC,California Resources Corporation,Basic Materials,Independent Oil & Gas,USA,1.05B,3.20,21.04
+ASFI,"Asta Funding, Inc.",Services,Business Services,USA,30.24M,3.21,4.52
+TX,Ternium S.A.,Basic Materials,Steel & Iron,Luxembourg,5.30B,3.38,25.96
+SM,SM Energy Company,Basic Materials,Independent Oil & Gas,USA,1.76B,3.40,15.24
+HMG,"HMG/Courtland Properties, Inc.",Financial,REIT - Retail,USA,14.14M,3.42,14.00
+ZKIN,"ZK International Group Co., Ltd.",Basic Materials,Steel & Iron,China,28.98M,3.43,1.75
+CHK,Chesapeake Energy Corporation,Basic Materials,Independent Oil & Gas,USA,4.67B,3.56,2.89
+RCG,"RENN Fund, Inc.",Financial,Asset Management,USA,6.87M,3.58,1.54
+BHFAP,"Brighthouse Financial, Inc.",Financial,Life Insurance,USA,3.15B,3.69,26.57
+SID,Companhia Siderurgica Nacional,Basic Materials,Steel & Iron,Brazil,4.80B,3.77,3.53
+FORK,Fuling Global Inc.,Consumer Goods,Home Furnishings & Fixtures,China,37.56M,3.77,2.38
+BPT,BP Prudhoe Bay Royalty Trust,Basic Materials,Oil & Gas Refining & Marketing,USA,435.07M,3.79,20.04
+CIDM,Cinedigm Corp.,Services,Entertainment - Diversified,USA,64.99M,3.79,1.85
+RYI,Ryerson Holding Corporation,Industrial Goods,Metal Fabrication,USA,398.56M,3.84,10.81
+NTRSP,Northern Trust Corporation,Financial,Asset Management,USA,5.65B,3.90,25.52
+AXAS,Abraxas Petroleum Corporation,Basic Materials,Independent Oil & Gas,USA,228.84M,3.91,1.35
+MU,"Micron Technology, Inc.",Technology,Semiconductor- Memory Chips,USA,47.34B,3.95,42.13
+LMRK,Landmark Infrastructure Partners LP,Financial,Property Management,USA,382.72M,3.96,15.05
+NVFY,"Nova LifeStyle, Inc.",Consumer Goods,Home Furnishings & Fixtures,USA,22.01M,3.98,0.76
+XTLB,XTL Biopharmaceuticals Ltd.,Healthcare,Biotechnology,Israel,11.93M,3.99,2.32
+SNFCA,Security National Financial Corporation,Financial,Credit Services,USA,88.98M,4.01,5.07
+GAIN,Gladstone Investment Corporation,Financial,Diversified Investments,USA,408.64M,4.03,12.45
+MT,ArcelorMittal,Basic Materials,Steel & Iron,Luxembourg,21.27B,4.06,20.51
+GSM,Ferroglobe PLC,Basic Materials,Industrial Metals & Minerals,USA,354.41M,4.10,2.13
+SVVC,"Firsthand Technology Value Fund, Inc.",Financial,Asset Management,USA,80.55M,4.11,11.22
+BZH,"Beazer Homes USA, Inc.",Industrial Goods,Residential Construction,USA,374.89M,4.11,11.80
+HNNA,"Hennessy Advisors, Inc.",Financial,Asset Management,USA,83.30M,4.14,10.31
+CARV,"Carver Bancorp, Inc.",Financial,Savings & Loans,USA,13.14M,4.18,3.60
+HEAR,Turtle Beach Corporation,Technology,Communication Equipment,USA,158.70M,4.22,10.99
+SWN,Southwestern Energy Company,Basic Materials,Independent Oil & Gas,USA,2.13B,4.23,3.95
+FLMN,Falcon Minerals Corporation,Basic Materials,Independent Oil & Gas,USA,719.53M,4.26,8.26
+EAF,GrafTech International Ltd.,Industrial Goods,Diversified Machinery,USA,3.53B,4.26,12.22
+NRE,Northstar Realty Europe Corp.,Financial,REIT - Office,USA,873.63M,4.28,17.71
+INVA,"Innoviva, Inc.",Healthcare,Biotechnology,USA,1.49B,4.29,14.95
+NHTC,Natural Health Trends Corp.,Consumer Goods,Personal Products,Hong Kong,134.31M,4.43,11.96
+EVK,"Ever-Glory International Group, Inc.",Consumer Goods,Textile - Apparel Clothing,China,53.55M,4.46,3.62
+HPJ,"Highpower International, Inc.",Industrial Goods,Industrial Electrical Equipment,China,52.59M,4.47,3.76
+LIVE,Live Ventures Incorporated,Technology,Internet Information Providers,USA,14.63M,4.47,7.54
+AKS,AK Steel Holding Corporation,Basic Materials,Steel & Iron,USA,809.19M,4.48,2.58
+HK,Halcon Resources Corporation,Basic Materials,Oil & Gas Drilling & Exploration,USA,216.84M,4.56,1.29
+ESTE,"Earthstone Energy, Inc.",Basic Materials,Independent Oil & Gas,USA,462.28M,4.62,6.87
+AMBC,"Ambac Financial Group, Inc.",Financial,Surety & Title Insurance,USA,859.08M,4.68,19.04
+PER,SandRidge Permian Trust,Basic Materials,Independent Oil & Gas,USA,130.56M,4.69,2.26
+SDR,SandRidge Mississippian Trust II,Basic Materials,Independent Oil & Gas,USA,52.10M,4.76,0.99
+GTX,Garrett Motion Inc.,Consumer Goods,Auto Parts,Switzerland,1.36B,4.80,18.46
+VRS,Verso Corporation,Consumer Goods,Paper & Paper Products,USA,801.28M,4.81,23.21
+CMCM,Cheetah Mobile Inc.,Technology,Application Software,China,883.92M,4.81,6.00
+SGH,"SMART Global Holdings, Inc.",Technology,Semiconductor- Memory Chips,USA,526.45M,4.93,22.26
+WF,Woori Financial Group Inc.,Financial,Foreign Regional Banks,South Korea,8.16B,4.94,35.72

@@ -1,0 +1,134 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,BPRAP,Brookfield Property REIT Inc.,Financial,REIT - Retail,USA,3.73B,0.68,25.37
+ADDED,OPHT,Ophthotech Corporation,Healthcare,Biotechnology,USA,59.21M,0.95,1.40
+ADDED,LGCY,Legacy Reserves Inc.,Basic Materials,Independent Oil & Gas,USA,57.41M,1.23,0.46
+ADDED,IPLDP,Interstate Power and Light Company,Utilities,Electric Utilities,USA,202.48M,1.28,25.25
+ADDED,AMPE,"Ampio Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,64.10M,1.39,0.56
+ADDED,HHS,"Harte Hanks, Inc.",Services,Marketing Services,USA,22.21M,1.50,3.67
+ADDED,TALO,Talos Energy Inc.,Basic Materials,Independent Oil & Gas,USA,1.46B,2.12,27.31
+ADDED,ROSEU,Rosehill Resources Inc.,Basic Materials,Independent Oil & Gas,USA,-,2.23,3.92
+ADDED,SRAX,"Social Reality, Inc.",Services,Advertising Agencies,USA,34.71M,2.66,3.30
+ADDED,FSK,FS KKR Capital Corp.,Financial,Asset Management,USA,3.18B,2.67,6.11
+ADDED,BCEI,"Bonanza Creek Energy, Inc.",Basic Materials,Independent Oil & Gas,USA,466.12M,2.78,22.95
+ADDED,DNR,Denbury Resources Inc.,Basic Materials,Independent Oil & Gas,USA,962.29M,2.90,2.12
+ADDED,CLF,Cleveland-Cliffs Inc.,Basic Materials,Industrial Metals & Minerals,USA,2.96B,2.94,10.43
+ADDED,JP,Jupai Holdings Limited,Financial,Asset Management,China,124.41M,2.95,3.71
+ADDED,PVAC,Penn Virginia Corporation,Basic Materials,Independent Oil & Gas,USA,694.13M,3.01,44.09
+ADDED,CRZO,"Carrizo Oil & Gas, Inc.",Basic Materials,Independent Oil & Gas,USA,1.15B,3.01,12.82
+ADDED,X,United States Steel Corporation,Basic Materials,Steel & Iron,USA,3.36B,3.12,20.14
+ADDED,CNF,CNFinance Holdings Limited,Financial,Credit Services,China,376.20M,3.21,5.94
+ADDED,LND,BrasilAgro - Companhia Brasileira de Propriedades Agricolas,Financial,Property Management,Brazil,209.82M,3.24,4.01
+ADDED,PPDF,PPDAI Group Inc.,Financial,Credit Services,China,1.16B,3.28,3.88
+ADDED,ALIM,"Alimera Sciences, Inc.",Healthcare,Drug Manufacturers - Major,USA,75.20M,3.32,1.05
+ADDED,ASFI,"Asta Funding, Inc.",Services,Business Services,USA,31.30M,3.34,4.56
+ADDED,SGH,"SMART Global Holdings, Inc.",Technology,Semiconductor- Memory Chips,USA,545.28M,3.45,20.14
+ADDED,AXAS,Abraxas Petroleum Corporation,Basic Materials,Independent Oil & Gas,USA,212.00M,3.62,1.33
+ADDED,HOV,"Hovnanian Enterprises, Inc.",Industrial Goods,Residential Construction,USA,1.46B,3.76,12.34
+ADDED,CHK,Chesapeake Energy Corporation,Basic Materials,Independent Oil & Gas,USA,5.12B,3.82,3.17
+ADDED,GNC,"GNC Holdings, Inc.",Services,Drug Stores,USA,230.11M,3.87,2.62
+ADDED,SM,SM Energy Company,Basic Materials,Independent Oil & Gas,USA,1.93B,3.90,17.65
+ADDED,CRC,California Resources Corporation,Basic Materials,Independent Oil & Gas,USA,1.26B,3.91,26.78
+ADDED,GSM,Ferroglobe PLC,Basic Materials,Industrial Metals & Minerals,USA,354.30M,3.95,2.15
+ADDED,RCG,"RENN Fund, Inc.",Financial,Asset Management,USA,7.63M,3.98,1.71
+ADDED,INVA,"Innoviva, Inc.",Healthcare,Biotechnology,USA,1.41B,4.02,13.89
+ADDED,MT,ArcelorMittal,Basic Materials,Steel & Iron,Luxembourg,20.37B,4.04,21.55
+ADDED,XTLB,XTL Biopharmaceuticals Ltd.,Healthcare,Biotechnology,Israel,11.89M,4.07,2.33
+ADDED,NRE,Northstar Realty Europe Corp.,Financial,REIT - Office,USA,866.26M,4.17,17.43
+ADDED,ZIOP,"ZIOPHARM Oncology, Inc.",Healthcare,Biotechnology,USA,610.19M,4.40,3.99
+ADDED,VRS,Verso Corporation,Consumer Goods,Paper & Paper Products,USA,739.48M,4.44,21.84
+ADDED,EAF,GrafTech International Ltd.,Industrial Goods,Diversified Machinery,USA,3.75B,4.46,13.35
+ADDED,FLMN,Falcon Minerals Corporation,Basic Materials,Independent Oil & Gas,USA,740.88M,4.55,9.06
+ADDED,HPR,HighPoint Resources Corporation,Basic Materials,Independent Oil & Gas,USA,502.91M,4.64,2.26
+ADDED,EMES,Emerge Energy Services LP,Basic Materials,Industrial Metals & Minerals,USA,62.99M,4.73,1.95
+ADDED,DLPH,Delphi Technologies PLC,Consumer Goods,Auto Parts,United Kingdom,1.72B,4.75,21.28
+ADDED,ESTE,"Earthstone Energy, Inc.",Basic Materials,Independent Oil & Gas,USA,456.24M,4.76,7.21
+ADDED,AKS,AK Steel Holding Corporation,Basic Materials,Steel & Iron,USA,869.80M,4.77,2.88
+ADDED,SRCI,SRC Energy Inc.,Basic Materials,Industrial Metals & Minerals,USA,1.24B,4.79,5.22
+ADDED,NHTC,Natural Health Trends Corp.,Consumer Goods,Personal Products,Hong Kong,146.97M,4.80,12.70
+ADDED,FOX,Fox Corporation,Services,Entertainment - Diversified,USA,-,4.82,36.21
+ADDED,WF,Woori Financial Group Inc.,Financial,Foreign Regional Banks,South Korea,8.12B,4.85,37.31
+ADDED,SVVC,"Firsthand Technology Value Fund, Inc.",Financial,Asset Management,USA,95.26M,4.86,13.20
+ADDED,CSIQ,Canadian Solar Inc.,Technology,Semiconductor - Specialized,Canada,1.10B,4.87,18.98
+ADDED,FLY,Fly Leasing Limited,Services,Rental & Leasing Services,Ireland,447.59M,4.87,14.05
+REMOVED,NTN,"NTN Buzztime, Inc.",Services,Broadcasting - TV,USA,8.21M,0.00,2.87
+REMOVED,SYN,"Synthetic Biologics, Inc.",Healthcare,Biotechnology,USA,10.53M,0.20,0.75
+REMOVED,EMCF,Emclaire Financial Corp.,Financial,Regional - Northeast Banks,USA,89.66M,0.31,33.33
+REMOVED,YECO,Yulong Eco-Materials Limited,Industrial Goods,General Building Materials,China,15.45M,0.37,6.48
+REMOVED,STCN,"Steel Connect, Inc.",Services,Business Services,USA,105.08M,0.41,1.74
+REMOVED,LCUT,"Lifetime Brands, Inc.",Consumer Goods,Housewares & Accessories,USA,224.21M,0.49,10.74
+REMOVED,AVYA,Avaya Holdings Corp.,Services,Business Services,USA,1.66B,0.56,14.62
+REMOVED,SOL,ReneSola Ltd,Technology,Semiconductor - Specialized,China,61.69M,0.59,1.54
+REMOVED,OZM,Och-Ziff Capital Management Group LLC,Financial,Asset Management,USA,516.58M,0.76,1.03
+REMOVED,RBCN,"Rubicon Technology, Inc.",Technology,Semiconductor Equipment & Materials,USA,20.96M,0.78,8.00
+REMOVED,INFI,"Infinity Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,80.20M,1.13,1.35
+REMOVED,HTZ,"Hertz Global Holdings, Inc.",Services,Rental & Leasing Services,USA,1.56B,1.32,17.83
+REMOVED,ASPS,Altisource Portfolio Solutions S.A.,Services,Business Services,Luxembourg,377.01M,1.37,21.65
+REMOVED,DLPN,"Dolphin Entertainment, Inc.",Technology,Internet Information Providers,USA,18.90M,1.44,1.35
+REMOVED,PVL,Permianville Royalty Trust,Basic Materials,Independent Oil & Gas,USA,84.81M,1.71,2.50
+REMOVED,GMTA,GATX Corporation SR NT 2066,Services,"Specialty Retail, Other",USA,925.50M,1.79,23.90
+REMOVED,DAC,Danaos Corporation,Services,Shipping,Greece,227.95M,1.81,1.09
+REMOVED,BHR,"Braemar Hotels & Resorts, Inc.",Financial,REIT - Hotel/Motel,USA,313.17M,1.87,9.50
+REMOVED,TYHT,"Shineco, Inc.",Healthcare,Drug Related Products,China,15.85M,1.92,0.68
+REMOVED,BTI,British American Tobacco p.l.c.,Consumer Goods,Cigarettes,United Kingdom,79.50B,2.13,34.88
+REMOVED,MDCA,MDC Partners Inc.,Services,Marketing Services,Canada,145.55M,2.14,2.39
+REMOVED,AABA,Altaba Inc.,Financial,Asset Management,USA,37.49B,2.21,60.61
+REMOVED,SD,"SandRidge Energy, Inc.",Basic Materials,Oil & Gas Drilling & Exploration,USA,372.96M,2.23,9.93
+REMOVED,KLXE,"KLX Energy Services Holdings, Inc.",Basic Materials,Oil & Gas Equipment & Services,USA,538.56M,2.37,25.39
+REMOVED,MNK,Mallinckrodt Public Limited Company,Healthcare,Drugs - Generic,United Kingdom,2.57B,2.40,29.59
+REMOVED,HEBT,"Hebron Technology Co., Ltd.",Industrial Goods,Diversified Machinery,China,10.20M,2.51,1.10
+REMOVED,APF,Morgan Stanley Asia-Pacific Fun,Financial,Closed-End Fund - Foreign,USA,199.71M,2.75,15.01
+REMOVED,CHMI,Cherry Hill Mortgage Investment Corporation,Financial,REIT - Residential,USA,309.88M,2.90,18.99
+REMOVED,RYAM,Rayonier Advanced Materials Inc.,Basic Materials,Chemicals - Major Diversified,USA,741.90M,2.98,14.05
+REMOVED,HX,Hexindai Inc.,Financial,Credit Services,China,254.43M,3.10,5.18
+REMOVED,CLBS,"Caladrius Biosciences, Inc.",Healthcare,Biotechnology,USA,44.43M,3.16,4.60
+REMOVED,VZA,Verizon Communications Inc.,Technology,Telecom Services - Domestic,USA,104.33B,3.23,25.23
+REMOVED,CWH,"Camping World Holdings, Inc.",Financial,REIT - Office,USA,1.49B,3.43,16.94
+REMOVED,DX,"Dynex Capital, Inc.",Financial,REIT - Residential,USA,356.89M,3.49,5.97
+REMOVED,SINO,"Sino-Global Shipping America, Ltd.",Services,Air Delivery & Freight Services,USA,13.37M,3.51,1.00
+REMOVED,ED,"Consolidated Edison, Inc.",Utilities,Electric Utilities,USA,24.14B,3.52,78.02
+REMOVED,ASYS,"Amtech Systems, Inc.",Technology,Semiconductor Equipment & Materials,USA,77.30M,3.54,5.16
+REMOVED,AXL,"American Axle & Manufacturing Holdings, Inc.",Consumer Goods,Auto Parts,USA,1.34B,3.55,11.83
+REMOVED,ALO,Alio Gold Inc.,Basic Materials,Gold,Canada,56.55M,3.67,0.64
+REMOVED,HEES,"H&E Equipment Services, Inc.",Services,Rental & Leasing Services,USA,751.97M,3.69,20.25
+REMOVED,ESGRP,Enstar Group Limited,Financial,Insurance Brokers,Bermuda,535.57M,3.69,24.95
+REMOVED,TST,"TheStreet, Inc.",Technology,Internet Information Providers,USA,89.79M,3.73,1.83
+REMOVED,SPB,"Spectrum Brands Holdings, Inc.",Consumer Goods,Personal Products,USA,2.57B,3.78,46.94
+REMOVED,SPRT,"Support.com, Inc.",Technology,Internet Software & Services,USA,51.30M,3.93,2.69
+REMOVED,NLY,"Annaly Capital Management, Inc.",Financial,REIT - Diversified,USA,13.12B,3.97,9.96
+REMOVED,NCMI,"National CineMedia, Inc.",Services,Marketing Services,USA,533.05M,4.01,6.60
+REMOVED,RVT,Royce Value Trust Inc.,Financial,Closed-End Fund - Equity,USA,1.15B,4.11,13.48
+REMOVED,GLQ,Clough Global Equity Fund,Financial,Asset Management,USA,135.06M,4.14,11.71
+REMOVED,TMK,Torchmark Corporation,Financial,Life Insurance,USA,9.70B,4.19,85.66
+REMOVED,AFGE,"American Financial Group, Inc.",Financial,Property & Casualty Insurance,USA,2.25B,4.28,25.24
+REMOVED,CYD,China Yuchai International Limited,Industrial Goods,Diversified Machinery,Singapore,595.74M,4.36,14.27
+REMOVED,OSB,Norbord Inc.,Services,Building Materials Wholesale,Canada,2.43B,4.36,27.44
+REMOVED,GLO,Clough Global Opportunities Fund,Financial,Asset Management,USA,299.36M,4.42,9.00
+REMOVED,MXE,Mexico Equity & Income Fund Inc.,Financial,Asset Management,Mexico,72.77M,4.42,9.91
+REMOVED,BGR,BlackRock Energy and Resources Trust,Financial,Closed-End Fund - Equity,USA,373.11M,4.50,12.31
+REMOVED,BXC,BlueLinx Holdings Inc.,Services,Building Materials Wholesale,USA,225.38M,4.56,22.93
+REMOVED,MDR,"McDermott International, Inc.",Basic Materials,Oil & Gas Equipment & Services,USA,1.54B,4.56,7.99
+REMOVED,NRZ,New Residential Investment Corp.,Financial,REIT - Residential,USA,6.28B,4.57,16.70
+REMOVED,PRTS,"U.S. Auto Parts Network, Inc.",Services,"Specialty Retail, Other",USA,39.20M,4.59,1.01
+REMOVED,TECK,Teck Resources Limited,Basic Materials,Industrial Metals & Minerals,Canada,12.35B,4.63,20.41
+REMOVED,RMT,"Royce Micro-Cap Trust, Inc.",Financial,Closed-End Fund - Equity,USA,326.09M,4.70,8.36
+REMOVED,ZEUS,"Olympic Steel, Inc.",Basic Materials,Steel & Iron,USA,206.11M,4.70,18.08
+REMOVED,BOE,BlackRock Enhanced Global Dividend Trust,Financial,Closed-End Fund - Foreign,USA,697.39M,4.76,10.05
+REMOVED,BBBY,Bed Bath & Beyond Inc.,Services,Home Furnishing Stores,USA,1.73B,4.80,12.29
+REMOVED,AETI,"American Electric Technologies, Inc",Industrial Goods,Industrial Electrical Equipment,USA,4.38M,4.81,0.47
+REMOVED,STRM,"Streamline Health Solutions, Inc.",Technology,Healthcare Information Services,USA,18.09M,4.81,0.97
+REMOVED,ACLS,"Axcelis Technologies, Inc.",Technology,Semiconductor Equipment & Materials,USA,551.94M,4.83,17.00
+REMOVED,FUND,"Sprott Focus Trust, Inc. - Clos",Financial,Closed-End Fund - Equity,USA,175.15M,4.83,6.67
+REMOVED,SHI,Sinopec Shanghai Petrochemical Company Limited,Basic Materials,Oil & Gas Refining & Marketing,China,7.04B,4.84,45.70
+REMOVED,HABT,"The Habit Restaurants, Inc.",Services,Restaurants,USA,371.99M,4.85,14.15
+REMOVED,KRO,"Kronos Worldwide, Inc.",Basic Materials,Specialty Chemicals,USA,1.48B,4.86,12.28
+REMOVED,CIEN,Ciena Corporation,Technology,Communication Equipment,USA,4.63B,4.86,30.76
+REMOVED,PZN,"Pzena Investment Management, Inc",Financial,Asset Management,USA,699.24M,4.86,10.24
+REMOVED,ADES,"Advanced Emissions Solutions, Inc.",Industrial Goods,Pollution & Treatment Controls,USA,195.22M,4.87,9.64
+REMOVED,ALEX,"Alexander & Baldwin, Inc.",Financial,Real Estate Development,USA,1.51B,4.88,20.85
+REMOVED,TWO,Two Harbors Investment Corp.,Financial,REIT - Residential,USA,3.54B,4.89,14.16
+REMOVED,CC,The Chemours Company,Basic Materials,Specialty Chemicals,USA,5.01B,4.91,28.20
+REMOVED,BGI,Birks Group Inc.,Services,Jewelry Stores,Canada,22.68M,4.92,1.26
+REMOVED,CII,"BlackRock Enhanced Capital and Income Fund, Inc.",Financial,Closed-End Fund - Equity,USA,675.06M,4.92,15.01
+REMOVED,CSSE,"Chicken Soup for the Soul Entertainment, Inc.",Services,Broadcasting - TV,USA,101.55M,4.93,8.57
+REMOVED,HMC,"Honda Motor Co., Ltd.",Consumer Goods,Auto Manufacturers - Major,Japan,50.47B,4.97,27.69
+REMOVED,IMKTA,"Ingles Markets, Incorporated",Services,Grocery Stores,USA,624.62M,5.00,30.05

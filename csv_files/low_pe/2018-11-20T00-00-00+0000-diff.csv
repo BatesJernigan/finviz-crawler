@@ -1,0 +1,33 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,SYN,"Synthetic Biologics, Inc.",Healthcare,Biotechnology,USA,10.53M,0.20,0.75
+ADDED,ICON,"Iconix Brand Group, Inc.",Consumer Goods,Textile - Apparel Footwear & Accessories,USA,12.50M,0.31,0.15
+ADDED,SSKN,"STRATA Skin Sciences, Inc.",Healthcare,Medical Instruments & Supplies,USA,79.69M,0.52,2.62
+ADDED,BPR,Brookfield Property REIT Inc.,Financial,REIT - Retail,USA,2.32B,0.72,17.81
+ADDED,BLNK,Blink Charging Co.,Services,Business Services,USA,60.47M,0.93,2.35
+ADDED,COOP,Mr. Cooper Group Inc.,Financial,Savings & Loans,USA,1.31B,1.17,14.01
+ADDED,SIGA,"SIGA Technologies, Inc.",Healthcare,Biotechnology,USA,453.00M,1.31,5.62
+ADDED,SPB,"Spectrum Brands Holdings, Inc.",Consumer Goods,Personal Products,USA,2.57B,3.78,46.94
+ADDED,UONEK,"Urban One, Inc.",Services,Broadcasting - Radio,USA,103.78M,3.90,2.13
+ADDED,AMBC,"Ambac Financial Group, Inc.",Financial,Surety & Title Insurance,USA,803.25M,4.33,17.32
+ADDED,ZEUS,"Olympic Steel, Inc.",Basic Materials,Steel & Iron,USA,206.11M,4.70,18.08
+ADDED,HK,Halcon Resources Corporation,Basic Materials,Oil & Gas Drilling & Exploration,USA,477.19M,4.75,2.77
+ADDED,BBBY,Bed Bath & Beyond Inc.,Services,Home Furnishing Stores,USA,1.73B,4.80,12.29
+ADDED,AETI,"American Electric Technologies, Inc",Industrial Goods,Industrial Electrical Equipment,USA,4.38M,4.81,0.47
+ADDED,HABT,"The Habit Restaurants, Inc.",Services,Restaurants,USA,371.99M,4.85,14.15
+ADDED,CIEN,Ciena Corporation,Technology,Communication Equipment,USA,4.63B,4.86,30.76
+ADDED,CC,The Chemours Company,Basic Materials,Specialty Chemicals,USA,5.01B,4.91,28.20
+ADDED,CII,"BlackRock Enhanced Capital and Income Fund, Inc.",Financial,Closed-End Fund - Equity,USA,675.06M,4.92,15.01
+ADDED,CSSE,"Chicken Soup for the Soul Entertainment, Inc.",Services,Broadcasting - TV,USA,101.55M,4.93,8.57
+ADDED,BZH,"Beazer Homes USA, Inc.",Industrial Goods,Residential Construction,USA,345.36M,4.95,10.31
+ADDED,HMC,"Honda Motor Co., Ltd.",Consumer Goods,Auto Manufacturers - Major,Japan,50.47B,4.97,27.69
+ADDED,IMKTA,"Ingles Markets, Incorporated",Services,Grocery Stores,USA,624.62M,5.00,30.05
+REMOVED,NES,"Nuverra Environmental Solutions, Inc.",Industrial Goods,Waste Management,USA,116.38M,0.60,9.37
+REMOVED,GLOW,"Glowpoint, Inc.",Technology,Diversified Communication Services,USA,8.85M,1.46,0.18
+REMOVED,CVIA,Covia Holdings Corporation,Basic Materials,Industrial Metals & Minerals,USA,743.03M,3.45,5.58
+REMOVED,MTOR,"Meritor, Inc.",Consumer Goods,Auto Parts,USA,1.51B,3.72,16.89
+REMOVED,SBGI,"Sinclair Broadcast Group, Inc.",Services,Broadcasting - TV,USA,3.24B,3.78,31.28
+REMOVED,SURF,"Surface Oncology, Inc.",Healthcare,Biotechnology,USA,234.07M,4.16,8.17
+REMOVED,PFSI,"PennyMac Financial Services, Inc.",Financial,Mortgage Investment,USA,-,4.34,20.69
+REMOVED,TDF,"Templeton Dragon Fund, Inc.",Financial,Closed-End Fund - Foreign,Singapore,585.79M,4.89,17.16
+REMOVED,JP,Jupai Holdings Limited,Financial,Asset Management,China,278.89M,4.95,8.38
+REMOVED,MT,ArcelorMittal,Basic Materials,Steel & Iron,Luxembourg,25.57B,4.98,24.36

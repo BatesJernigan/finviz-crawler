@@ -1,0 +1,5 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,PRTS,"U.S. Auto Parts Network, Inc.",Services,"Specialty Retail, Other",USA,41.90M,4.67,1.20
+ADDED,FBM,"Foundation Building Materials, Inc.",Services,Industrial Equipment Wholesale,USA,428.37M,4.96,11.10
+REMOVED,DHX,"DHI Group, Inc.",Services,Staffing & Outsourcing Services,USA,86.97M,4.92,1.66
+REMOVED,SWN,Southwestern Energy Company,Basic Materials,Independent Oil & Gas,USA,3.12B,4.94,5.39

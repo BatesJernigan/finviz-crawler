@@ -1,0 +1,43 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,PLAG,Planet Green Holdings Corp.,Consumer Goods,Processed & Packaged Goods,China,22.22M,0.53,4.20
+ADDED,PED,PEDEVCO Corp.,Basic Materials,Oil & Gas Equipment & Services,USA,92.29M,0.60,2.08
+ADDED,ISEE,"IVERIC bio, Inc.",Healthcare,Biotechnology,USA,58.93M,0.97,1.43
+ADDED,ARL,"American Realty Investors, Inc.",Financial,Property Management,USA,222.95M,1.32,14.21
+ADDED,TCI,"Transcontinental Realty Investors, Inc.",Financial,REIT - Diversified,USA,280.96M,1.55,32.00
+ADDED,XIN,"Xinyuan Real Estate Co., Ltd.",Financial,Real Estate Development,China,290.57M,1.89,4.50
+ADDED,BHFAP,"Brighthouse Financial, Inc.",Financial,Life Insurance,USA,3.15B,3.69,26.57
+ADDED,FORK,Fuling Global Inc.,Consumer Goods,Home Furnishings & Fixtures,China,37.56M,3.77,2.38
+ADDED,BPT,BP Prudhoe Bay Royalty Trust,Basic Materials,Oil & Gas Refining & Marketing,USA,435.07M,3.79,20.04
+ADDED,SWN,Southwestern Energy Company,Basic Materials,Independent Oil & Gas,USA,2.13B,4.23,3.95
+ADDED,EVK,"Ever-Glory International Group, Inc.",Consumer Goods,Textile - Apparel Clothing,China,53.55M,4.46,3.62
+ADDED,CMCM,Cheetah Mobile Inc.,Technology,Application Software,China,883.92M,4.81,6.00
+REMOVED,BVSN,"BroadVision, Inc.",Technology,Internet Software & Services,USA,8.70M,0.11,1.59
+REMOVED,ICON,"Iconix Brand Group, Inc.",Consumer Goods,Textile - Apparel Footwear & Accessories,USA,11.80M,0.48,1.85
+REMOVED,OPHT,Ophthotech Corporation,Healthcare,Biotechnology,USA,59.21M,0.95,1.40
+REMOVED,KODK,Eastman Kodak Company,Consumer Goods,Electronic Equipment,USA,135.01M,1.15,3.07
+REMOVED,BLNK,Blink Charging Co.,Services,Business Services,USA,74.59M,1.18,3.17
+REMOVED,SYPR,"Sypris Solutions, Inc.",Consumer Goods,Auto Parts,USA,24.00M,1.46,1.07
+REMOVED,CUO,Continental Materials Corporation,Industrial Goods,Diversified Machinery,USA,31.69M,1.47,18.70
+REMOVED,MN,"Manning & Napier, Inc.",Financial,Asset Management,USA,31.39M,1.64,2.10
+REMOVED,NBY,"NovaBay Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,20.30M,2.17,1.06
+REMOVED,DGSE,"DGSE Companies, Inc.",Services,Jewelry Stores,USA,11.30M,2.18,0.43
+REMOVED,BDR,"Blonder Tongue Laboratories, Inc.",Technology,Communication Equipment,USA,10.00M,2.42,1.10
+REMOVED,SRAX,"Social Reality, Inc.",Services,Advertising Agencies,USA,34.71M,2.66,3.30
+REMOVED,PPDF,PPDAI Group Inc.,Financial,Credit Services,China,1.16B,3.28,3.88
+REMOVED,HOV,"Hovnanian Enterprises, Inc.",Industrial Goods,Residential Construction,USA,1.46B,3.76,12.34
+REMOVED,TURN,180 Degree Capital Corp.,Financial,Asset Management,USA,58.79M,4.01,1.87
+REMOVED,OPHC,"OptimumBank Holdings, Inc.",Financial,Regional - Mid-Atlantic Banks,USA,7.11M,4.36,3.83
+REMOVED,QD,Qudian Inc.,Technology,Information Technology Services,China,1.65B,4.37,5.22
+REMOVED,ZIOP,"ZIOPHARM Oncology, Inc.",Healthcare,Biotechnology,USA,610.19M,4.40,3.99
+REMOVED,JMEI,Jumei International Holding Limited,Services,"Specialty Retail, Other",China,351.99M,4.47,2.36
+REMOVED,SORL,"SORL Auto Parts, Inc.",Consumer Goods,Auto Manufacturers - Major,China,54.40M,4.52,3.17
+REMOVED,HPR,HighPoint Resources Corporation,Basic Materials,Independent Oil & Gas,USA,502.91M,4.64,2.26
+REMOVED,IMMR,Immersion Corporation,Technology,Application Software,USA,254.16M,4.74,8.58
+REMOVED,DLPH,Delphi Technologies PLC,Consumer Goods,Auto Parts,United Kingdom,1.72B,4.75,21.28
+REMOVED,SRCI,SRC Energy Inc.,Basic Materials,Industrial Metals & Minerals,USA,1.24B,4.79,5.22
+REMOVED,DQ,Daqo New Energy Corp.,Technology,Semiconductor Equipment & Materials,China,416.51M,4.80,35.88
+REMOVED,FOX,Fox Corporation,Services,Entertainment - Diversified,USA,-,4.82,36.21
+REMOVED,FNJN,"Finjan Holdings, Inc.",Technology,Application Software,USA,82.01M,4.85,2.96
+REMOVED,CSIQ,Canadian Solar Inc.,Technology,Semiconductor - Specialized,Canada,1.10B,4.87,18.98
+REMOVED,FLY,Fly Leasing Limited,Services,Rental & Leasing Services,Ireland,447.59M,4.87,14.05
+REMOVED,ZTR,Virtus Global Dividend & Income Fund Inc.,Financial,Closed-End Fund - Equity,USA,262.33M,4.87,10.81

@@ -1,0 +1,25 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,EMCF,Emclaire Financial Corp.,Financial,Regional - Northeast Banks,USA,71.72M,1.73,32.75
+ADDED,WTI,"W&T Offshore, Inc.",Basic Materials,Oil & Gas Drilling & Exploration,USA,1.03B,4.38,7.25
+ADDED,TUSK,"Mammoth Energy Services, Inc.",Basic Materials,Oil & Gas Drilling & Exploration,USA,1.13B,4.46,26.59
+ADDED,TECK,Teck Resources Limited,Basic Materials,Industrial Metals & Minerals,Canada,12.23B,4.54,20.89
+ADDED,NCMI,"National CineMedia, Inc.",Services,Marketing Services,USA,635.41M,4.76,7.51
+ADDED,SINO,"Sino-Global Shipping America, Ltd.",Services,Air Delivery & Freight Services,USA,19.32M,4.78,1.38
+ADDED,ACLS,"Axcelis Technologies, Inc.",Technology,Semiconductor Equipment & Materials,USA,576.63M,4.83,17.32
+ADDED,TX,Ternium S.A.,Basic Materials,Steel & Iron,Luxembourg,6.38B,4.87,32.10
+ADDED,JP,Jupai Holdings Limited,Financial,Asset Management,China,287.89M,4.99,8.72
+REMOVED,OPHT,Ophthotech Corporation,Healthcare,Biotechnology,USA,88.04M,0.54,2.30
+REMOVED,VNTR,Venator Materials PLC,Basic Materials,Specialty Chemicals,United Kingdom,763.42M,1.69,6.74
+REMOVED,PENN,"Penn National Gaming, Inc.",Services,Resorts & Casinos,USA,2.32B,2.78,23.20
+REMOVED,FAF,First American Financial Corporation,Financial,Property & Casualty Insurance,USA,5.01B,2.81,45.01
+REMOVED,NPO,"EnPro Industries, Inc.",Industrial Goods,Industrial Equipment & Components,USA,1.46B,2.91,71.90
+REMOVED,MDR,"McDermott International, Inc.",Basic Materials,Oil & Gas Equipment & Services,USA,1.55B,3.08,8.73
+REMOVED,CNCE,"Concert Pharmaceuticals, Inc.",Healthcare,Biotechnology,USA,345.98M,3.32,14.36
+REMOVED,UTF,"Cohen & Steers Infrastructure Fund, Inc",Financial,Closed-End Fund - Equity,USA,1.84B,4.07,21.45
+REMOVED,BTU,Peabody Energy Corporation,Basic Materials,Industrial Metals & Minerals,USA,4.17B,4.32,34.49
+REMOVED,ALEX,"Alexander & Baldwin, Inc.",Financial,Real Estate Development,USA,1.44B,4.66,21.20
+REMOVED,TAIT,Taitron Components Incorporated,Services,Electronics Wholesale,USA,8.90M,4.66,1.65
+REMOVED,CIEN,Ciena Corporation,Technology,Communication Equipment,USA,4.56B,4.73,31.94
+REMOVED,HABT,"The Habit Restaurants, Inc.",Services,Restaurants,USA,380.72M,4.77,14.80
+REMOVED,STRM,"Streamline Health Solutions, Inc.",Technology,Healthcare Information Services,USA,18.29M,4.79,1.06
+REMOVED,BGI,Birks Group Inc.,Services,Jewelry Stores,Canada,22.94M,4.84,1.17

@@ -1,0 +1,8 @@
+Action,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price
+ADDED,UCTT,"Ultra Clean Holdings, Inc.",Technology,Semiconductor Equipment & Materials,USA,397.28M,4.65,10.30
+ADDED,STRM,"Streamline Health Solutions, Inc.",Technology,Healthcare Information Services,USA,18.32M,4.89,0.92
+REMOVED,OPHC,"OptimumBank Holdings, Inc.",Financial,Regional - Mid-Atlantic Banks,USA,6.26M,4.50,4.50
+REMOVED,MT,ArcelorMittal,Basic Materials,Steel & Iron,Luxembourg,25.71B,4.92,25.58
+REMOVED,ADES,"Advanced Emissions Solutions, Inc.",Industrial Goods,Pollution & Treatment Controls,USA,200.10M,4.97,10.20
+REMOVED,JP,Jupai Holdings Limited,Financial,Asset Management,China,287.89M,4.99,8.72
+REMOVED,FUND,"Sprott Focus Trust, Inc. - Clos",Financial,Closed-End Fund - Equity,USA,181.13M,5.00,6.95
