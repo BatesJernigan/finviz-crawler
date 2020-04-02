@@ -1,2 +1,8 @@
-ruby /Users/batesjernigan/Desktop/finviz/lib/low_pe_analyzer.rb
-ruby /Users/batesjernigan/Desktop/finviz/lib/high_div_analyzer.rb
+#!/bin/bash
+set -e
+set -x
+
+# $CURRENT_PATH = echo $(pwd)
+# echo
+ruby lib/low_pe_analyzer.rb
+ruby lib/high_div_analyzer.rb

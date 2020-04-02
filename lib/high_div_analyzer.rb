@@ -1,7 +1,7 @@
-require_relative "base.rb"
+require_relative 'base.rb'
 
 class HighDivAnalyzer < Base
-  FOLDER_PATH = "/Users/batesjernigan/Desktop/finviz/csv_files/high_div"
+  FOLDER_PATH = "#{Dir.pwd}/csv_files/high_div"
   HEADERS = ["Ticker", "Market Cap", "Div", "ROA", "ROE", "ROI", "Curr R", "Quick R", "LTDebt/Eq", "Debt/Eq", "Gross M", "Profit M", "Earnings", "Price", "Change", "Volume"].freeze
 
   def screener_content(record_offset = 1)

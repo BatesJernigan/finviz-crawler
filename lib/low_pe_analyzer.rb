@@ -1,7 +1,7 @@
 require_relative "base.rb"
 
 class LowPeAnalyzer < Base
-  FOLDER_PATH = "/Users/batesjernigan/Desktop/finviz/csv_files/low_pe"
+  FOLDER_PATH = "#{Dir.pwd}/csv_files/low_pe"
   HEADERS = ["Ticker", "Company", "Sector", "Industry", "Country", "Market Cap", "P/E", "Price"].freeze
 
   def screener_content(record_offset = 1)

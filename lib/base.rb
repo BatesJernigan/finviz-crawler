@@ -1,7 +1,7 @@
-require "httmultiparty"
-require "nokogiri"
-require "pry"
-require "csv"
+require 'httmultiparty'
+require 'nokogiri'
+require 'pry'
+require 'csv'
 
 class Base
   include HTTMultiParty
